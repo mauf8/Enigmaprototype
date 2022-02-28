@@ -9,6 +9,7 @@ public class Main {
     }
 
     public void krypter1() {
+        asd
         char a=1;
         char b=2;
         char c=3;
