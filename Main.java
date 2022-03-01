@@ -51,12 +51,12 @@ public class Main {
     }
 
     public String krypter2() {
-        char [] aplhabet = "ABCDEFGHIJKLNMOPQRSTUVWXZÆØÅ".toCharArray();
+        char [] alphabet = "ABCDEFGHIJKLNMOPQRSTUVWXZÆØÅ".toCharArray();
         int i = 0;
         if (i > 29) {
             return null;
         }
-        return Character.toString(aplhabet[i]);
+        return Character.toString(alphabet[i]);
         System.out.println(a);
     }
 
